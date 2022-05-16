@@ -1,0 +1,7 @@
+com\example\CompanyDetails\model\RequestProduct.class
+com\example\CompanyDetails\model\Product.class
+com\example\CompanyDetails\service\ProductService.class
+com\example\CompanyDetails\repository\ProductRepo.class
+com\example\CompanyDetails\service\ProductServiceImpl.class
+com\example\CompanyDetails\controller\ProductController.class
+com\example\CompanyDetails\CompanyDetailsApplication.class
